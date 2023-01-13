@@ -1,10 +1,30 @@
-### Hi there 👋, I'm Mariia Lobareva
-#### Senior Frontend Developer. React/Redux teacher.
-![Senior Frontend Developer. React/Redux teacher.](https://media.licdn.com/dms/image/D4D03AQE-a3NEpgQP9w/profile-displayphoto-shrink_800_800/0/1666475064713?e=1678924800&v=beta&t=34m0ORsugydiB1lP120V-zjwSz0J5YgUtQQo2tkfU7g)
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-Worked in huge product and outsource companies such as Yandex/EPAM. Have open NPM packs. Opened to new jobs :)
 
-Skills: React, Next.js, Redux, Redux-Thunk, JavaScript, TypeScript, GraphQL, REST, Node.js, MongoDB
+<p>Welcome to my page! </br> I'm Mariia, Senior Frontend developer, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197529.png" width="13"/> <b>Kraków, Poland</b>. </p>
+<p>Worked in huge product and outsource companies such as Yandex/EPAM. Have open NPM packs. Opened to new jobs :)</p>
+
+![Profile views](https://gpvc.arturio.dev/marylorian)
+
+<h3>Things I code with</h3>
+<p>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
+  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" />
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+</p>
 
 - 🔭 I’m currently working on customers' project at EPAM (under NDA) 
 - 🌱 I’m currently learning Cypress, Vue, PostgreSQL 
@@ -13,9 +33,30 @@ Skills: React, Next.js, Redux, Redux-Thunk, JavaScript, TypeScript, GraphQL, RES
 - 😄 Pronouns: she/her 
 - ⚡ Fun fact: I started my path as C developer, then I was Java developer and only after that I found myself as a frontend engineer. But I still touch something on backend side time to time :) 
 
+<h3>Open source projects</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>🛎 Issues</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://www.npmjs.com/package/react-textarea-with-suggest"><b>react-textarea-with-suggest</b></a></td>
+      <td><img alt="Stars" src="https://cdn-icons-png.flaticon.com/512/8206/8206522.png"/></td>
+      <td><img alt="Issues" src="https://cdn-icons-png.flaticon.com/512/8206/8206522.png"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://www.npmjs.com/package/react-image-cropping"><b>react-image-cropping</b></a></td>
+      <td><img alt="Stars" src="https://cdn-icons-png.flaticon.com/512/8206/8206522.png"/></td>
+      <td><img alt="Issues" src="https://cdn-icons-png.flaticon.com/512/8206/8206522.png"/></td>
+    </tr>
+  </tbody>
+</table>
+<h3>Where to find me</h3>
+<p><a href="https://github.com/marylorian" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/marialobareva" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.npmjs.com/~marylorian" target="_blank"><img alt="NPM" src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" /></a>
+</p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/marylorian)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/marialobareva/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/marylorian/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/npm.svg' alt='npm' height='40'>](https://www.npmjs.com/package/react-textarea-with-suggest)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=marylorian)  
-
-![Profile views](https://gpvc.arturio.dev/marylorian)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=marylorian) 
