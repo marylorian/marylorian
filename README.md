@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Mariia, Senior Frontend developer, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197529.png" width="13"/> <b>Kraków, Poland</b>. </p>
+<p>Welcome to my page! </br> I'm Mariia, Senior Frontend developer, originally from Russia, but left this country in 2021. Currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197529.png" width="13"/> <b>Kraków, Poland</b>. </p> `#nowar`
 <p>Worked in huge product and outsource companies such as Yandex/EPAM. Have open NPM packs. Opened to new jobs :)</p>
 
 ![Profile views](https://gpvc.arturio.dev/marylorian)
@@ -28,9 +28,6 @@
 
 - 🔭 I’m currently working on customers' project at EPAM (under NDA) 
 - 🌱 I’m currently learning Cypress, Vue, PostgreSQL 
-- 💬 Ask me about React, Redux 
-- 📫 How to reach me:  marialobareva97@gmail.com or https://www.linkedin.com/in/marialobareva 
-- 😄 Pronouns: she/her 
 - ⚡ Fun fact: I started my path as C developer, then I was Java developer and only after that I found myself as a frontend engineer. But I still touch something on backend side time to time :) 
 
 <h3>Open source projects</h3>
