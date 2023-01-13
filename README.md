@@ -1,8 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Mariia, Senior Frontend developer, originally from Russia, but left this country in 2021. Currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197529.png" width="13"/> <b>Kraków, Poland</b>. </p> 
-`#nowar`
+<p>Welcome to my page! </br> I'm Mariia, Senior Frontend developer, originally from Russia, but left this country in 2021. Currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197529.png" width="13"/> <b>Kraków, Poland</b>. `#nowar` </p> 
 <p>Worked in huge product and outsource companies such as Yandex/EPAM. Have open NPM packs. Opened to new jobs :)</p>
 
 ![Profile views](https://gpvc.arturio.dev/marylorian)
