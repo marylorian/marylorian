@@ -56,7 +56,7 @@
   </tbody>
 </table>
 <h3>Where to find me</h3>
-<p><a href="https://github.com/marylorian" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/marialobareva" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.npmjs.com/~marylorian" target="_blank"><img alt="NPM" src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" /></a>
+<p><a href="https://github.com/marylorian" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/marialobareva" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.npmjs.com/~marylorian" target="_blank"><img alt="NPM" src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" /></a> <a href="https://www.instagram.com/marylorian/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 </p>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=marylorian) 
