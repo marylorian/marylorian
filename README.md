@@ -45,13 +45,13 @@
   <tbody>
     <tr>
       <td><a href="https://www.npmjs.com/package/react-textarea-with-suggest"><b>react-textarea-with-suggest</b></a></td>
-      <td><img alt="Stars" src="https://cdn-icons-png.flaticon.com/512/8206/8206522.png"/></td>
-      <td><img alt="Issues" src="https://cdn-icons-png.flaticon.com/512/8206/8206522.png"/></td>
+      <td><img alt="Stars" src="https://cdn-icons-png.flaticon.com/512/8206/8206522.png" width="13" /></td>
+      <td><img alt="Issues" src="https://cdn-icons-png.flaticon.com/512/8206/8206522.png" width="13" /></td>
     </tr>
     <tr>
-      <td><a href="https://www.npmjs.com/package/react-image-cropping"><b>react-image-cropping</b></a></td>
-      <td><img alt="Stars" src="https://cdn-icons-png.flaticon.com/512/8206/8206522.png"/></td>
-      <td><img alt="Issues" src="https://cdn-icons-png.flaticon.com/512/8206/8206522.png"/></td>
+      <td>[REFACTORING NOW]<a href="https://www.npmjs.com/package/react-image-cropping"><b>react-image-cropping</b></a></td>
+      <td><img alt="Stars" src="https://cdn-icons-png.flaticon.com/512/8206/8206522.png" width="13" /></td>
+      <td><img alt="Issues" src="https://cdn-icons-png.flaticon.com/512/8206/8206522.png" width="13" /></td>
     </tr>
   </tbody>
 </table>
