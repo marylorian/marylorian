@@ -1,10 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-
 <p>Welcome to my page! </br> I'm Mariia, Senior Frontend developer, originally from Russia, but left this country in 2021. Currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197529.png" width="13"/> <b>Kraków, Poland</b>. `#nowar` </p> 
 <p>Worked in huge product and outsource companies such as Yandex/EPAM. Have open NPM packs. Opened to new jobs :)</p>
-
-![Profile views](https://gpvc.arturio.dev/marylorian)
 
 <h3>Things I code with</h3>
 <p>
@@ -21,6 +18,7 @@
   <img alt="Styled Components" src="https://img.shields.io/badge/styledcomponents-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=GraphQL&logoColor=white" />
   <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white" />
   <img alt="React Testing Library" src="https://img.shields.io/badge/Testing%20Library-E33332.svg?style=for-the-badge&logo=Testing-Library&logoColor=white" />
@@ -33,35 +31,17 @@
 </p>
 
 <ul>
-  <li><p>🔭 I’m currently working on <b>customers' project at EPAM (under NDA)</b></p></li>
+  <li><p>🔭 I’m currently working on <b>customer's project at EPAM (under NDA)</b></p></li>
   <li><p>🌱 I’m currently learning <b>Cypress, Vue, PostgreSQL</b></p></li> 
-  <li><p>⚡ Fun fact: <b>I started my path as C developer, then I was Java developer and only after that I found myself as a frontend engineer. But I still touch something on backend side time to time :)</b></p></li> 
+  <li><p>⚡ Fun fact: <b>I started my path as a C developer (code for POS-terminals), then I was a Java and Ruby developer (code for medical equipment) and only after that I found myself as a frontend engineer. But I still touch something on backend side time to time :)</b></p></li> 
 </ul>
 
 <h3>Open source projects</h3>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>🛎 Issues</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://www.npmjs.com/package/react-textarea-with-suggest"><b>react-textarea-with-suggest</b></a></td>
-      <td><img alt="Stars" src="https://cdn-icons-png.flaticon.com/512/8206/8206522.png" width="13" /></td>
-      <td><img alt="Issues" src="https://cdn-icons-png.flaticon.com/512/8206/8206522.png" width="13" /></td>
-    </tr>
-    <tr>
-      <td>[REFACTORING NOW]<a href="https://www.npmjs.com/package/react-image-cropping"><b>react-image-cropping</b></a></td>
-      <td><img alt="Stars" src="https://cdn-icons-png.flaticon.com/512/8206/8206522.png" width="13" /></td>
-      <td><img alt="Issues" src="https://cdn-icons-png.flaticon.com/512/8206/8206522.png" width="13" /></td>
-    </tr>
-  </tbody>
-</table>
+<ul>
+  <li><a href="https://www.npmjs.com/package/react-textarea-with-suggest"><b>react-textarea-with-suggest</b></a>/li>
+  <li><a href="https://github.com/razrabs-media/rzrbs-vacancy-bot"><b>rzrbs-vacancy-bot</b></a></li>
+</ul>
+
 <h3>Where to find me</h3>
 <p><a href="https://github.com/marylorian" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/marialobareva" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.npmjs.com/~marylorian" target="_blank"><img alt="NPM" src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" /></a> <a href="https://www.instagram.com/marylorian/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a> <a href="https://t.me/marylorian" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white" /></a>
 </p>
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=marylorian) 
