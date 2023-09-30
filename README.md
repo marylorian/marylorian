@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Mariia, Senior Frontend developer, originally from Russia, but left this country in 2021. Currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197529.png" width="13"/> <b>Kraków, Poland</b>. `#nowar` </p> 
+<p>Welcome to my page! </br> I'm Mariia, Senior Frontend developer, originally from Russia, but left this country in 2021. Currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197529.png" width="13"/> <b>Kraków, Poland</b>. <a href="#" alt="I'm against the war">#nowar</a> </p> 
 <p>Worked in huge product and outsource companies such as Yandex/EPAM. Have open NPM packs. Opened to new jobs :)</p>
 
 <h3>Things I code with</h3>
@@ -38,7 +38,7 @@
 
 <h3>Open source projects</h3>
 <ul>
-  <li><a href="https://www.npmjs.com/package/react-textarea-with-suggest"><b>react-textarea-with-suggest</b></a>/li>
+  <li><a href="https://www.npmjs.com/package/react-textarea-with-suggest"><b>react-textarea-with-suggest</b></a></li>
   <li><a href="https://github.com/razrabs-media/rzrbs-vacancy-bot"><b>rzrbs-vacancy-bot</b></a></li>
 </ul>
 
